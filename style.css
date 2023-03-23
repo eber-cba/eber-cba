@@ -1,0 +1,46 @@
+body {
+  background-color: #152837;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+a {
+  color: #ffbd59;
+  transition: all 0.3s ease-in-out;
+}
+
+a:hover {
+  color: #fff;
+  background-color: #ffbd59;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 28px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+p {
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+/* Agrega cualquier estilo adicional aquí */
