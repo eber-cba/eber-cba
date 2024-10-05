@@ -28,4 +28,5 @@ Soy un desarrollador apasionado por la tecnología y las soluciones innovadoras.
 
 ¡Gracias por visitar mi perfil de GitHub!
 
-https://www.holopin.io/userbadge/cm1winynw90330cjwyeie19vx
+[![An image of @ebercba's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ebercba)](https://holopin.io/@ebercba)
+
